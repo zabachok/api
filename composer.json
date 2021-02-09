@@ -1,0 +1,16 @@
+{
+  "name": "zabachok/api",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "zabachok",
+      "email": "d@zabachok.net"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0",
+    "yiisoft/yii2": "~2.0.40"
+  }
+}
